@@ -1,7 +1,0 @@
-<<<<<<< HEAD:js/chunk-2d0f012d.2dca139f.js
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f012d"],{"9b8f":function(t,e,n){"use strict";n.r(e);var r=n("6a59");function o(t,e,n,o,u,c){return Object(r["openBlock"])(),Object(r["createElementBlock"])("div")}var u={data:function(){return{}},created:function(){var t=this.$route.query,e="";for(var n in t)e+=t[n];this.$route.query;this.$router.push({path:e})}},c=n("b3f2"),a=n.n(c);const i=a()(u,[["render",o]]);e["default"]=i}}]);
-//# sourceMappingURL=chunk-2d0f012d.2dca139f.js.map
-=======
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f012d"],{"9b8f":function(t,e,n){"use strict";n.r(e);var r=n("7a23");function o(t,e,n,o,u,c){return Object(r["openBlock"])(),Object(r["createElementBlock"])("div")}var u={data:function(){return{}},created:function(){var t=this.$route.query,e="";for(var n in t)e+=t[n];this.$route.query;this.$router.push({path:e})}},c=n("d959"),a=n.n(c);const i=a()(u,[["render",o]]);e["default"]=i}}]);
-//# sourceMappingURL=chunk-2d0f012d.c0a423b5.js.map
->>>>>>> 60350386667276d0c51c16a13d715ff8a0a56f88:js/chunk-2d0f012d.c0a423b5.js
